@@ -1,0 +1,71 @@
+
+---Downloaded files---
+The import files for: Demo 2 were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://localhost:81/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/themes/grandtour/cache/demos/xml/demo2/2_woo.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/themes/grandtour/cache/demos/xml/demo2/2.wie
+Customizer file = C:\xampp\htdocs\wordpress/wp-content/themes/grandtour/cache/demos/xml/demo2/2.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_age Adult
+[WARNING] Failed to import product_tag backpack
+[WARNING] Failed to import product_tag ball
+[WARNING] Failed to import pa_age Child
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_age Infant
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag ring
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Snorkel
+[WARNING] Failed to import product_tag Swimming
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Equipment
+[WARNING] Failed to import "Swiss Alps Trip": Invalid post type product
+[WARNING] Failed to import "Grand Switzerland": Invalid post type product
+[WARNING] Failed to import "Grand Switzerland - Adult": Invalid post type product_variation
+[WARNING] Failed to import "Grand Switzerland - Child": Invalid post type product_variation
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_age Adult
+[WARNING] Failed to import product_tag backpack
+[WARNING] Failed to import product_tag ball
+[WARNING] Failed to import pa_age Child
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_age Infant
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag ring
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Snorkel
+[WARNING] Failed to import product_tag Swimming
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Equipment
+[WARNING] Failed to import "Swiss Alps Trip": Invalid post type product
+[WARNING] Failed to import "Grand Switzerland": Invalid post type product
+[WARNING] Failed to import "Grand Switzerland - Adult": Invalid post type product_variation
+[WARNING] Failed to import "Grand Switzerland - Child": Invalid post type product_variation
+
